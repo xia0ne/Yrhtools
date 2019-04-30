@@ -7,15 +7,14 @@
 #本脚本内整合的所有脚本，均来源搜索引擎和各大论坛、博客。本人并不承担任何责任。使用本脚本代表自己将对自己的主机负责任。
 #这是本人的第一个脚本，BUG多请多多见谅。QQ:1223605525
 #History:
-#2019/3/30    OPlin      开始折腾     V0.1
-#2019/4/06    OPlin      加入更新脚本 V0.2
+#2019/4/30    Yrh      开始折腾     V0.1
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 #主界面
 mainGNU() {
 clear
-echo -e "\033[32m===============\033[0m\033[36m Yrh's工具V0.2 \033[32m===============\033[0m"
-echo -e "本脚本最后修改于2019/4/06"
+echo -e "\033[32m===============\033[0m\033[36m Yrh's工具V0.1 \033[32m===============\033[0m"
+echo -e "本脚本最后修改于2019/4/30"
 echo -e "作者Yrh | www.my-cup.cn \n QQ:1223605525\n\n"
 echo -e "${startblue}1${endblue}.VPS常用脚本整合"
 echo -e "${startblue}2${endblue}.Liunx的一些命令"
